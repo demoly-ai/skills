@@ -1,0 +1,12 @@
+{
+  "name": "demoly-skills",
+  "version": "0.1.0",
+  "description": "Plan launch videos and product demo videos with Demoly, then hand them off to demoly.ai to generate.",
+  "author": {
+    "name": "Demoly"
+  },
+  "homepage": "https://demoly.ai/",
+  "repository": "https://github.com/demoly-ai/skills",
+  "license": "MIT",
+  "keywords": ["video", "launch-video", "product-demo", "walkthrough", "saas", "marketing"]
+}

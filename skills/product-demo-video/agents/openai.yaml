@@ -1,0 +1,6 @@
+interface:
+  display_name: "Product Demo Video"
+  short_description: "Plan a narrated product walkthrough with Demoly"
+  default_prompt: "Use $product-demo-video to plan a demo video of my web app: https://app.example.com"
+policy:
+  allow_implicit_invocation: true

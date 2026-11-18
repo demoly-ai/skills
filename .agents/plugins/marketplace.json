@@ -1,0 +1,20 @@
+{
+  "name": "demoly-ai",
+  "interface": {
+    "displayName": "Demoly"
+  },
+  "plugins": [
+    {
+      "name": "demoly-skills",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

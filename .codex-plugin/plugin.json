@@ -1,0 +1,30 @@
+{
+  "name": "demoly-skills",
+  "version": "0.1.0",
+  "description": "Plan launch videos and product demo videos with Demoly, then hand them off to demoly.ai to generate.",
+  "author": {
+    "name": "Demoly",
+    "url": "https://demoly.ai/"
+  },
+  "homepage": "https://demoly.ai/",
+  "repository": "https://github.com/demoly-ai/skills",
+  "license": "MIT",
+  "keywords": ["video", "launch-video", "product-demo", "walkthrough", "saas", "marketing"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Demoly",
+    "shortDescription": "Plan launch and product demo videos for your product.",
+    "longDescription": "Turn a product URL into a launch video or a product demo video: the Skills write the brief with you and open Demoly with it filled in.",
+    "developerName": "Demoly",
+    "category": "Productivity",
+    "capabilities": ["Read"],
+    "websiteURL": "https://demoly.ai/",
+    "privacyPolicyURL": "https://demoly.ai/privacy",
+    "termsOfServiceURL": "https://demoly.ai/terms",
+    "defaultPrompt": [
+      "Make a launch video for my product: https://example.com",
+      "Plan a product demo video that shows our onboarding flow.",
+      "Write a brief for a feature walkthrough video of my web app."
+    ]
+  }
+}

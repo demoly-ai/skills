@@ -1,0 +1,25 @@
+{
+  "name": "demoly-ai",
+  "metadata": {
+    "description": "Official Agent Skills from Demoly."
+  },
+  "owner": {
+    "name": "Demoly"
+  },
+  "plugins": [
+    {
+      "name": "demoly-skills",
+      "source": "./",
+      "description": "Plan launch videos and product demo videos with Demoly, then hand them off to demoly.ai to generate.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Demoly"
+      },
+      "homepage": "https://demoly.ai/",
+      "repository": "https://github.com/demoly-ai/skills",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": ["video", "launch-video", "product-demo", "walkthrough", "saas", "marketing"]
+    }
+  ]
+}

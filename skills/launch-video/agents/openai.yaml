@@ -1,0 +1,6 @@
+interface:
+  display_name: "Launch Video"
+  short_description: "Plan a narrated launch video with Demoly"
+  default_prompt: "Use $launch-video to plan a launch video for my product: https://example.com"
+policy:
+  allow_implicit_invocation: true
