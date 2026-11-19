@@ -48,7 +48,7 @@ By default Demoly blocks write requests to the product, so it looks around witho
 
 ## 5. Mention the options
 
-On the Customize step the user can choose the voice, captions on or off, and an intro and outro. The video is landscape (16:9) and aims for about a minute. Do not promise other formats or lengths.
+On the Customize step the user can choose the voice, captions on or off, an intro and outro, and a style (Blue Professional by default, or another named style such as Bold Poster or Capsule). The style sets the colors, the title cards and the cover; the product itself is shown as it is, and colors follow the product's page when it has its own. The video is landscape (16:9) and aims for about a minute. Do not promise other formats or lengths.
 
 ## 6. Hand off
 
