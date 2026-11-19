@@ -33,10 +33,10 @@ See [examples](references/briefs.md) for well-formed briefs.
 
 On the Customize step the user can choose, all optional:
 
-- Style: Auto (Demoly picks one that suits the product) or one of the named styles, such as Blue Professional, Bold Poster, or Code editorial. Colors follow the product's page when it has its own.
+- Style: one of the named styles, such as Blue Professional (the default), Bold Poster, or Capsule. Colors follow the product's page when it has its own.
 - Voice, background music on or off, and captions on or off. The video always ends on a closing card.
 
-Recommend Auto unless the user describes a look. The video is landscape (16:9) and aims for about a minute. Do not promise other formats or lengths.
+Blue Professional is preselected; suggest another style only when the user describes a look. The video is landscape (16:9) and aims for about a minute. Do not promise other formats or lengths.
 
 ## 4. Hand off
 
